@@ -1,5 +1,34 @@
 # SwiggyClone
 
+*Project Structure
+The project follows a modular Angular structure with various components to handle specific functionalities.
+
+Directory Structure
+src/app/components - Contains individual components that manage different sections and features of the app.
+
+cart - Handles the shopping cart functionality where users can view and manage selected items.
+delivery-details - Displays the delivery details interface.
+fav - Manages the "Favorites" feature where users can view their saved items or restaurants.
+home - The homepage of the application, displaying restaurant listings and featured items.
+menu-item - Displays individual menu items available in a restaurant.
+restraunt - Handles the restaurant listings and details.
+restraunt-display - Manages the display for restaurant-specific details, such as menu and location.
+track - Provides a tracking interface to show the status of ongoing orders.
+src/app/guards-page - Contains route guards to manage page access control.
+
+src/app/landing-page - Includes files for the main landing page of the application.
+
+src/app/models - Contains TypeScript models for data structures used in the app.
+
+src/app/services - Houses services to handle API calls, data fetching, and business logic.
+
+src/app/user - Manages user-specific functionalities and components.
+
+src/assets/images - Stores images used throughout the application for icons, banners, and other visual elements.*
+
+
+
+Version
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
 
 ## Development server
