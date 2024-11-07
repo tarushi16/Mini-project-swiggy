@@ -1,9 +1,11 @@
 # SwiggyClone
 
 *Project Structure
+
 The project follows a modular Angular structure with various components to handle specific functionalities.
 
 Directory Structure
+
 src/app/components - Contains individual components that manage different sections and features of the app.
 
 cart - Handles the shopping cart functionality where users can view and manage selected items.
