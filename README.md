@@ -7,14 +7,23 @@ Directory Structure
 src/app/components - Contains individual components that manage different sections and features of the app.
 
 cart - Handles the shopping cart functionality where users can view and manage selected items.
+
 delivery-details - Displays the delivery details interface.
+
 fav - Manages the "Favorites" feature where users can view their saved items or restaurants.
+
 home - The homepage of the application, displaying restaurant listings and featured items.
+
 menu-item - Displays individual menu items available in a restaurant.
+
 restraunt - Handles the restaurant listings and details.
+
 restraunt-display - Manages the display for restaurant-specific details, such as menu and location.
+
 track - Provides a tracking interface to show the status of ongoing orders.
+
 src/app/guards-page - Contains route guards to manage page access control.
+
 
 src/app/landing-page - Includes files for the main landing page of the application.
 
